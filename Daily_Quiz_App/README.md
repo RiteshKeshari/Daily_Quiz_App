@@ -1,6 +1,6 @@
-# QuizApp_Firebase_MVVM
+# Daily_Quiz_App
 
-Quiz App built  with Android Jetpack Components (Navigation - MVVM) and Firebase Auth - Firestore
+ This Application aims to provide interactive platform to the teachers who want to take test of the student on the daily basis. Developed using Android Studio and created with Firebase Authentication and Firestore.
 
 # RecyclerView, Displaying List of Quizes
 ![](images/two.jpg)
