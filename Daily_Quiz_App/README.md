@@ -2,10 +2,10 @@
 
  This Application aims to provide interactive platform to the teachers who want to take test of the student on the daily basis. Developed using Android Studio and created with Firebase Authentication and Firestore.
 
-# LoginUp Activity.
+# Get Started
 ![One](https://user-images.githubusercontent.com/77539323/133396112-6358a14b-805c-488c-ba7a-1a7bd675d522.jpg)
 
-# SignUp Activity.
+# Login Activity.
 ![Two](https://user-images.githubusercontent.com/77539323/133396634-bd3dc95e-7f47-43c8-9b1e-4ad5897377ad.jpg)
 
 # Choosing a test from scheduled date (Used Fragment).
